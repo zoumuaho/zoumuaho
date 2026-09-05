@@ -34,7 +34,3 @@ Java 后端开发 · Spring Boot 生态实践者 · 偶尔跨界前端。
 ## 📫 联系我
 
 <!-- 在这里补充你的邮箱或其他联系方式 -->
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoumuaho&show_icons=true&locale=zh-CN)
